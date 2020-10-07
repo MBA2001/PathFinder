@@ -1,0 +1,52 @@
+.node {
+  width: 25px;
+  height: 25px;
+  margin: 0 auto;
+  display: inline-block;
+  outline: 0.5px solid black;
+}
+
+.node-finish {
+  width: 25px;
+  height: 25px;
+  margin: 0 auto;
+  display: inline-block;
+  outline: 0.5px solid black;
+  background-color: red;
+}
+
+.node-start {
+  width: 25px;
+  height: 25px;
+  margin: 0 auto;
+  display: inline-block;
+  outline: 0.5px solid black;
+  background-color: green;
+}
+
+.node-visited {
+  width: 25px;
+  height: 25px;
+  margin: 0 auto;
+  display: inline-block;
+  outline: 0.5px solid black;
+  background-color: blue;
+}
+
+.node-wall {
+  width: 25px;
+  height: 25px;
+  margin: 0 auto;
+  display: inline-block;
+  outline: 0.5px solid black;
+  background-color: grey;
+}
+
+.node-shortest-path {
+  width: 25px;
+  height: 25px;
+  margin: 0 auto;
+  display: inline-block;
+  outline: 0.5px solid black;
+  background-color: purple;
+}
