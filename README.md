@@ -3,12 +3,12 @@
 place walls around the place by clicking and dragging the mouse accross the pixels u want to change to a wall
 click the button to start the algorithm visualization and reset for a new one
 
-Green: where u start
-Red: the destination u are trying to reach
-Grey: walls
-Blue: pixels being checked by the algorithm
-Purple: perfect path according to the algorithm
-
+Green: where u start<br />
+Red: the destination u are trying to reach<br />
+Grey: walls<br />
+Blue: pixels being checked by the algorithm<br />
+Purple: perfect path according to the algorithm<br />
+<br /><br /><br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
